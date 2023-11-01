@@ -1,8 +1,6 @@
 # What are options?
 
-## What are options?
-
-#### What are options? <a href="#mntl-sc-block_2-0-7" id="mntl-sc-block_2-0-7"></a>
+### What are options? <a href="#mntl-sc-block_2-0-7" id="mntl-sc-block_2-0-7"></a>
 
 Options are contracts that give the bearer the right—but not the obligation—to either buy or sell an amount of some underlying asset at a predetermined price at or before the contract expires.Options are powerful because they can enhance an individual’s portfolio. They do this through added income, protection, and even leverage. Depending on the situation, there is usually an option scenario appropriate for an investor’s goal. A popular example would be using options as an effective [hedge](https://www.investopedia.com/terms/h/hedge.asp) against a declining stock market to limit downside losses.Options can also generate recurring income. Additionally, they are often used for speculative purposes, such as wagering on the direction of a stock.
 
