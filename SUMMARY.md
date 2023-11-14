@@ -23,6 +23,12 @@
   * [Earn with Referral](products/guide/referral.md)
   * [Security](products/guide/security.md)
 
+***
+
+* [Startups](startups/README.md)
+  * [SAFT tokenization](startups/saft-tokenization.md)
+  * [Self Serve](startups/self-serve.md)
+
 ## about
 
 * [EarlyVentures App](https://earlyventures.com)

@@ -1,34 +1,31 @@
 ---
-description: Welcome to EarlyVentures
+description: Quick Introduction
 ---
 
 # 👋 Welcome
 
-## What is Earlyventures?
+## What is EarlyVentures?
+
+EarlyVentures is a DeFi Investment Platform Offering Accessible, High Yield, and Liquid Investment Opportunities
+
+### What is the problem?&#x20;
+
+The most lucrative investment opportunities are often exclusive to institutional investors. Retail investors face barriers such as complexity, high financial thresholds, and liquidity.
+
+### What is our vision?
+
+We aim to be the RobinHood for tokenized real-world assets and empower retail investors with ease of use, convenience, and lower financial barriers of entry.
+
+### How it works?
+
+We use tokenization to make investments more accessible and liquid. Our DeFi platform provides a unified and managed approach to investing in tokenized assets. It's user-friendly and requires no prior knowledge in crypto.
 
 
 
-### What is our mission?
+## Products
 
+We simplify the process of investing in tokenizing assets through our two core products: the Fund and the Vault.
 
-
-### What are our values?
-
-EarlyVentures give you the opportunity to invest early in web3 Startups&#x20;
-
-#### EarlyVentures is a DEFI platform.
-
-* It's means it's secure and you control your funds at all time. We do not have custody.
-* It's also mean we are not responsible for the startups performances&#x20;
-
-#### **That give you access to unique opportunities**
-
-* You get access to unique investment opportunities, that usually only institutional investors or VC funds have.
-* Your can choose to invest in specific startup ( syndicate ) or in funds ( vehicle that includes a selection of startups )&#x20;
-
-#### in early stage investments&#x20;
-
-* it means you invest in either pre-seed, seed or serie A. The earlier, the lower the price but also the higher the risk.
-* your investment is locked until the project release their tokens ( TGE or ICO )&#x20;
+<figure><img src=".gitbook/assets/CleanShot 2023-11-14 at 08.49.30@2x (2).png" alt=""><figcaption></figcaption></figure>
 
 ####
