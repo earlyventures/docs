@@ -1,2 +1,0 @@
-# SAFT tokenization
-
