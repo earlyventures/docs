@@ -7,15 +7,15 @@ Crypto 100 is designed for investors seeking maximal exposure to the cryptocurre
 * Broad exposure to the top 100 cryptocurrency tokens.
 * Low-risk profile due to diversification.
 
+## Available on
+
+<table data-view="cards"><thead><tr><th>Exchange</th><th data-hidden data-type="content-ref">Link</th><th data-hidden data-card-cover data-type="files">Image</th></tr></thead><tbody><tr><td>EarlyVentures</td><td><a href="https://earlyventures.com/funds/crypto100">https://earlyventures.com/funds/crypto100</a></td><td><a href="../../.gitbook/assets/ev_black.png">ev_black.png</a></td></tr><tr><td>Uniswap</td><td><a href="https://uniswap.org/">https://uniswap.org/</a></td><td><a href="../../.gitbook/assets/download (2).png">download (2).png</a></td></tr></tbody></table>
+
 ## Methodology
 
 The top100 Tokens by market cap as listed on [https://coinmarketcap.com/](https://coinmarketcap.com/)
 
 
 
-<figure><img src="../../.gitbook/assets/CleanShot 2024-04-09 at 02.43.14@2x.png" alt=""><figcaption></figcaption></figure>
-
-
-
-{% embed url="https://airtable.com/appGtMhoUXHIPO4xz/shrGeMImz642WICAa" %}
+{% embed url="https://airtable.com/appGtMhoUXHIPO4xz/shrGeMImz642WICAa" fullWidth="true" %}
 
