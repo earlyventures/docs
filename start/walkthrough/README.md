@@ -2,7 +2,7 @@
 description: Get started in few minutes
 ---
 
-# Guide
+# Walkthrough
 
 EarlyVentures has ensured that investing in early-stage web3 projects is secure, simple and quick.&#x20;
 
@@ -42,8 +42,8 @@ The Investment dashboard shows your opportunities to invest in.
 
 Learn more here:&#x20;
 
-{% content-ref url="investing.md" %}
-[investing.md](investing.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ## Check your portfolio
@@ -66,7 +66,7 @@ You're provided with a dashboard that shows the projects you have invested in.&#
 
 Learn more here :&#x20;
 
-{% content-ref url="portfolio.md" %}
-[portfolio.md](portfolio.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 

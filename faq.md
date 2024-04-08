@@ -1,4 +1,4 @@
-# 👋 FAQ
+# ❓ FAQ
 
 ### 1. What is a Crypto Index Fund and How Does it Work?
 
