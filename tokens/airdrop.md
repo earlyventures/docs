@@ -6,6 +6,22 @@ description: >-
 
 # Airdrop
 
+{% hint style="info" %}
+**Summary**\
+\
+1\) You get points every day; $1 in funds equals 1 point.
+
+2\) You can earn a multiplier when you invite friends; 1 referral equals a +10% boost on your points.
+
+3\) You also earn points from your friends' earnings.
+{% endhint %}
+
+{% hint style="info" %}
+The points are used to qualify for our airdrop.
+
+What is our airdrop? We will distribute our token to the community later this year.
+{% endhint %}
+
 ## Unlocking Rewards Through the Airdrop
 
 The culmination of your efforts is the distribution of EarlyVentures tokens during our airdrop. The total points you’ve accumulated will determine the quantity of tokens you receive.&#x20;
