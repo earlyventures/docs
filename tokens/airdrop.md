@@ -16,6 +16,10 @@ The culmination of your efforts is the distribution of EarlyVentures tokens duri
 
 
 
+
+
+***
+
 ## How to Earn Points
 
 Your journey to earning more tokens begins with accumulating points. Below are the methods through which you can enhance your points balance:
@@ -55,6 +59,10 @@ In addition to the multiplier, you also earn a bonus of 16% of the points that e
 
 **Example:** If your referral earns 1000 points in a day, you receive a bonus of 100 points.
 
+
+
+***
+
 ## Calculating Your Points
 
 Here's how your daily points are calculated:
@@ -66,7 +74,8 @@ Here's how your daily points are calculated:
 3. **Referral Bonus:** Add the bonus points from your referrals' earnings.
    * Formula: `Total Points for the Day = Total Points from Assets + Referral Bonus Points`
 
-## Example Scenario
+{% hint style="info" %}
+### Example Scenario
 
 Let's go through an example:
 
@@ -81,8 +90,12 @@ Calculating **Alice's** points:
 3. Referral Bonus = 10% of Bob's 500 points = 50.
 
 **Alice's Total Points for the Day = 1150.**
+{% endhint %}
 
 ## FAQs
+
+**Q: How do I refer someone?**\
+A: You can refer someone by sharing your unique referral link, which can be found in your account settings.
 
 **Q: Is there a limit to how many people I can refer?**\
 A: No, there is no limit. The more successful referrals you make, the higher your points multiplier will be.
