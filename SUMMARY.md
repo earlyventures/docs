@@ -12,11 +12,11 @@
 
 ## FUNDS
 
-* [Fee](funds/fee.md)
-* [Whitepaper](funds/whitepaper.md)
 * [Methodology](funds/methodology/README.md)
   * [crypto100](funds/methodology/crypto100.md)
   * [crypto50](funds/methodology/crypto50.md)
+* [Whitepaper](funds/whitepaper.md)
+* [Fee](funds/fee.md)
 
 ## ETF Secondary market <a href="#etf" id="etf"></a>
 

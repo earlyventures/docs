@@ -1,5 +1,20 @@
 ---
-layout: editorial
+cover: ../../.gitbook/assets/crypto100_1.png
+coverY: -349
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: false
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # crypto100
