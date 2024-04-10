@@ -16,7 +16,15 @@
 ## FUNDS
 
 * [Methodology](funds/methodology/README.md)
-  * [crypto100](funds/methodology/crypto100.md)
+  * [Crypto100 Fund](funds/methodology/crypto100.md)
+  * [Crypto50 Fund](funds/methodology/crypto50.md)
+  * [Bull Fund](funds/methodology/bull.md)
+  * [Blossom Fund](funds/methodology/blossom.md)
+  * [Vintage Fund](funds/methodology/vintage.md)
+  * [BlueChip Fund](funds/methodology/bluechip.md)
+  * [Backbone Fund](funds/methodology/backbone.md)
+  * [DEX Fund](funds/methodology/dex.md)
+  * [CEX Fund](funds/methodology/cex.md)
 * [Fee](funds/fee.md)
 * [Smart contract](funds/smart-contract.md)
 * [Whitepaper](funds/whitepaper.md)
