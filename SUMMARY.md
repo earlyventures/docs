@@ -2,10 +2,9 @@
 
 * [👋 Welcome](README.md)
 
-## Get started <a href="#start" id="start"></a>
+## Platform <a href="#start" id="start"></a>
 
 * [Walkthrough](start/walkthrough/README.md)
-  * [Getting started](start/walkthrough/getting-started.md)
   * [Investing](start/walkthrough/investing.md)
   * [Funding your Account](start/walkthrough/funding.md)
   * [Monitoring Your Porfolio](start/walkthrough/monitoring-your-porfolio.md)

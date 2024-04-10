@@ -32,7 +32,7 @@ As a decentralized finance (DeFi) platform, EarlyVentures takes a unique approac
 
 EarlyVentures is not just about offering a smart way to invest; it's about making sophisticated crypto investment strategies accessible to everyone. Whether you're taking your first step into the world of cryptocurrency or looking to diversify your portfolio with a strategy that mirrors the wisdom of seasoned investors, our platform and token is designed to guide you towards a more secure and prosperous investment future.
 
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">Tokenomics</td><td><a href="tokens/tokenomics.md">tokenomics.md</a></td><td><a href=".gitbook/assets/whitepaper.webp">whitepaper.webp</a></td></tr><tr><td align="center">Airdrop</td><td><a href="tokens/airdrop.md">airdrop.md</a></td><td><a href=".gitbook/assets/airdrop.webp">airdrop.webp</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">Tokenomics</td><td><a href="tokens/tokenomics.md">tokenomics.md</a></td><td><a href=".gitbook/assets/whitepaper.webp">whitepaper.webp</a></td></tr><tr><td align="center">Airdrop</td><td><a href="tokens/airdrop.md">airdrop.md</a></td><td><a href=".gitbook/assets/airdrop.webp">airdrop.webp</a></td></tr><tr><td align="center"></td><td></td><td></td></tr></tbody></table>
 
 
 
