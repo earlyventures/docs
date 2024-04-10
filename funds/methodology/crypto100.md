@@ -1,10 +1,6 @@
 ---
-cover: ../../.gitbook/assets/crypto100_1.png
-coverY: -349
+description: Broad exposure to the top 100 cryptocurrency tokens.
 layout:
-  cover:
-    visible: true
-    size: hero
   title:
     visible: true
   description:
@@ -28,7 +24,7 @@ Crypto 100 is designed for investors seeking maximal exposure to the cryptocurre
 
 ## Available on
 
-<table data-card-size="large" data-view="cards"><thead><tr><th>Exchange</th><th data-hidden data-card-target data-type="content-ref">Link</th><th data-hidden data-card-cover data-type="files">Image</th></tr></thead><tbody><tr><td>EarlyVentures</td><td><a href="https://earlyventures.com/funds/crypto100">https://earlyventures.com/funds/crypto100</a></td><td><a href="../../.gitbook/assets/ev_black.png">ev_black.png</a></td></tr><tr><td>Uniswap</td><td><a href="https://uniswap.org/">https://uniswap.org/</a></td><td><a href="../../.gitbook/assets/download (2).png">download (2).png</a></td></tr></tbody></table>
+<table data-column-title-hidden data-view="cards"><thead><tr><th align="center">Exchange</th><th data-hidden data-card-target data-type="content-ref">Link</th><th data-hidden data-card-cover data-type="files">Image</th></tr></thead><tbody><tr><td align="center">EarlyVentures</td><td><a href="https://earlyventures.com/funds/crypto100">https://earlyventures.com/funds/crypto100</a></td><td><a href="../../.gitbook/assets/ev_black.png">ev_black.png</a></td></tr><tr><td align="center">Uniswap</td><td><a href="https://app.uniswap.org/swap?chain=polygon&#x26;inputCurrency=0xc2132D05D31c914a87C6611C10748AEb04B58e8F&#x26;outputCurrency=0x28C71A14346993866eC21e84916164290a42b3D4">https://app.uniswap.org/swap?chain=polygon&#x26;inputCurrency=0xc2132D05D31c914a87C6611C10748AEb04B58e8F&#x26;outputCurrency=0x28C71A14346993866eC21e84916164290a42b3D4</a></td><td><a href="../../.gitbook/assets/download (2).png">download (2).png</a></td></tr></tbody></table>
 
 ## Methodology
 

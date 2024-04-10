@@ -6,7 +6,10 @@
 
 * [Walkthrough](start/walkthrough/README.md)
   * [Getting started](start/walkthrough/getting-started.md)
+  * [Investing](start/walkthrough/investing.md)
   * [Funding your Account](start/walkthrough/funding.md)
+  * [Monitoring Your Porfolio](start/walkthrough/monitoring-your-porfolio.md)
+  * [Public stats](start/walkthrough/public-stats.md)
   * [Security](start/walkthrough/security.md)
 * [FAQ](start/faq.md)
 * [Affiliate program](start/affiliate-program.md)
@@ -15,18 +18,19 @@
 
 * [Methodology](funds/methodology/README.md)
   * [crypto100](funds/methodology/crypto100.md)
-  * [crypto50](funds/methodology/crypto50.md)
-* [Whitepaper](funds/whitepaper.md)
 * [Fee](funds/fee.md)
-* [Uniswap](funds/uniswap.md)
 * [Smart contract](funds/smart-contract.md)
+* [Whitepaper](funds/whitepaper.md)
 
-## ETF Secondary market <a href="#etf" id="etf"></a>
+## Exchange <a href="#etf" id="etf"></a>
+
+* [ETF Secondary Market](etf/etf-secondary-market.md)
+* [Uniswap](etf/uniswap.md)
 
 ## Tokens
 
-* [Tokenomics](tokens/tokenomics.md)
 * [Airdrop](tokens/airdrop.md)
+* [Tokenomics](tokens/tokenomics.md)
 
 ## about
 
