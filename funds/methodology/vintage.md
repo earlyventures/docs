@@ -1,5 +1,5 @@
 ---
-description: Broad exposure to the top 100 cryptocurrency tokens.
+description: only cryptocurrencies from 2017 or earlier.
 layout:
   title:
     visible: true
@@ -31,4 +31,4 @@ Invest in Vintage Fund for low-risk, stable crypto assets, embracing the Lindy E
 
 Vintage Fund focus on cryptocurrencies proven to be resilient born post the 2021 bull market. The Lindy Effect is a concept suggesting that the longer something like a book, technology, or idea has been around, the more likely it will continue to exist into the future. It's like classic songs that have been hits for decades; their lasting popularity suggests they'll be enjoyed for years to come.
 
-{% embed url="https://airtable.com/appGtMhoUXHIPO4xz/shrEDcl64mblt44K6" %}
+{% embed url="https://airtable.com/appGtMhoUXHIPO4xz/shrSLVsfRTMsaIZ7l" %}

@@ -30,4 +30,4 @@ Investing in the CEX Fund is a strategic move to capitalize on the expansion of 
 
 The CEX Fund specializes in investing in tokens from centralized exchanges (CEX), which serve as key entry points for retail investors, particularly thriving in bull markets. These platforms prioritize ease of use and simplicity, in contrast to decentralized exchanges that emphasize security and robustness. Our fund seeks to capitalize on the regulated and solid foundations of established CEX platforms, offering a strategic avenue for cryptocurrency investments.
 
-{% embed url="https://airtable.com/appGtMhoUXHIPO4xz/shrEDcl64mblt44K6" %}
+{% embed url="https://airtable.com/appGtMhoUXHIPO4xz/shriGBDlTBtUKBdbM" %}

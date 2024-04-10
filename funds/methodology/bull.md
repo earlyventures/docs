@@ -27,4 +27,4 @@ Bull is a fund designed to maximize returns in the next bull market by investing
 
 Best performing tokens over the last 6 months
 
-{% embed url="https://airtable.com/appGtMhoUXHIPO4xz/shrEDcl64mblt44K6" %}
+{% embed url="https://airtable.com/appGtMhoUXHIPO4xz/shr9fbFJpBFtV3YEx" %}

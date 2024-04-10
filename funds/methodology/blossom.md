@@ -30,4 +30,4 @@ layout:
 
 Blossom focuses on tokens born post-2021 bull market, showcasing fresh innovation and dynamic teams.
 
-{% embed url="https://airtable.com/appGtMhoUXHIPO4xz/shrEDcl64mblt44K6" %}
+{% embed url="https://airtable.com/appGtMhoUXHIPO4xz/shrNpGtPxXz14kAYh" %}

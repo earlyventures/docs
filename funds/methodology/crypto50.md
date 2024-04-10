@@ -30,4 +30,4 @@ Crypto 50 is designed for investors seeking maximal exposure to the cryptocurren
 
 The top 50 Tokens by market cap as listed on [https://coinmarketcap.com/](https://coinmarketcap.com/)
 
-{% embed url="https://airtable.com/appGtMhoUXHIPO4xz/shrEDcl64mblt44K6" %}
+{% embed url="https://airtable.com/appGtMhoUXHIPO4xz/shrITql1oMR9KhENr" %}

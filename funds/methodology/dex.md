@@ -27,4 +27,4 @@ Dex Fund is an ideal choice for investors bullish on DeFi, focusing on the burge
 
 DEX Fund is dedicated to investing in the evolving technology of decentralized exchanges. Recognizing the rapid advancements since 2021, this fund capitalizes on the potential of DEXs, which now offer competitive fees, enhanced security, and adhere to the core values of crypto by facilitating automated, trustless transactions without third-party custody.
 
-{% embed url="https://airtable.com/appGtMhoUXHIPO4xz/shrEDcl64mblt44K6" %}
+{% embed url="https://airtable.com/appGtMhoUXHIPO4xz/shr7sRgi8PqBAXeD5" %}

@@ -30,3 +30,5 @@ A fund dedicated to investing 75% in WBTC and 25% in ETH, adjusting to maintain 
 ## Methodology
 
 75% in WBTC and 25% in ETH
+
+{% embed url="https://airtable.com/appGtMhoUXHIPO4xz/shrVEmTcSHpqNKh6S" %}
