@@ -34,10 +34,10 @@
 * [ETF Secondary Market](etf/etf-secondary-market.md)
 * [Uniswap](etf/uniswap.md)
 
-## Tokens
+## Token
 
-* [Airdrop](tokens/airdrop.md)
-* [Tokenomics](tokens/tokenomics.md)
+* [Airdrop](token/airdrop.md)
+* [Tokenomics](token/tokenomics.md)
 
 ## about
 
