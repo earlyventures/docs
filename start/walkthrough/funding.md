@@ -18,7 +18,14 @@ You can fund your wallet address in your profile -> Smart wallet
 
 <figure><img src="../../.gitbook/assets/CleanShot 2024-04-10 at 14.48.26@2x.png" alt=""><figcaption><p><a href="https://earlyventures.com/account/security">https://earlyventures.com/account/security</a></p></figcaption></figure>
 
-### Depositing Other Tokens
+### Deposit any token
+
+For convenience, we have an OTC desk that will convert your deposit in USDT Polygon.\
+It usually take up to 2h for your deposit to be credited.
+
+<figure><img src="../../.gitbook/assets/CleanShot 2024-04-28 at 02.39.44@2x.png" alt=""><figcaption></figcaption></figure>
+
+### Depositing ERC-20 Tokens
 
 * **Wide Network Compatibility:** You can also deposit other tokens available on any ERC-compatible chain (e.g., Polygon, BSC, Ethereum, Avalanche, Optimism, Arbitrum).
 * **Integrated Bridge/Swap Features:** Utilize the integrated bridge/swap features in the embedded wallet to convert your deposits to the required format for investment.
@@ -28,6 +35,10 @@ You can fund your wallet address in your profile -> Smart wallet
 ***
 
 ## Deposit with Credit Card
+
+Go to portfolio -> Add cash -> Card
+
+<figure><img src="../../.gitbook/assets/CleanShot 2024-04-28 at 02.41.49@2x.png" alt=""><figcaption><p><a href="https://earlyventures.com/portfolio/cash/card">https://earlyventures.com/portfolio/cash/card</a></p></figcaption></figure>
 
 ### Partner Providers like Ramp.io
 
