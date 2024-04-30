@@ -55,6 +55,10 @@ Synthetic tokens are digital assets that represent other real-world or digital a
 
 * **Managed Access:** The minting and burning of tokens are tightly controlled through role-based permissions, ensuring that only authorized personnel can modify the supply.
 
+***
+
+
+
 ## **Conclusion**
 
 The "Synthetic Token" contract is crucial for bridging the gap between different blockchain ecosystems and enhancing the liquidity of assets within our fund. By leveraging synthetic tokens, the fund can effectively manage a diverse portfolio, maintaining alignment with its strategic investment goals while ensuring high standards of security and transparency.

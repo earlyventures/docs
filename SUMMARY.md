@@ -25,13 +25,13 @@
   * [Backbone Fund](funds/methodology/backbone.md)
   * [DEX Fund](funds/methodology/dex.md)
   * [CEX Fund](funds/methodology/cex.md)
-* [Fee](funds/fee.md)
-* [Smart contract](funds/smart-contract.md)
 * [Whitepaper](funds/whitepaper.md)
   * [Fund Contract](funds/whitepaper/fund-contract.md)
   * [Fund Token](funds/whitepaper/fund-token.md)
   * [Controller Contract](funds/whitepaper/controller-contract.md)
   * [Synthetic Token Contract](funds/whitepaper/synthetic-token-contract.md)
+  * [Smart contract List](funds/whitepaper/smart-contract-list.md)
+* [Fee](funds/fee.md)
 
 ## Exchange <a href="#etf" id="etf"></a>
 

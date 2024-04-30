@@ -56,6 +56,10 @@ The "Controller" contract plays a pivotal role in our DeFi platform by managing 
 * **Access Restrictions:** Utilizes role-based permissions to restrict sensitive functions to authorized operators only, preventing unauthorized access and ensuring integrity.
 * **Safe Transfers:** Leverages `SafeERC20` for secure token transfers, mitigating risks associated with token transactions.
 
+***
+
+
+
 ## **Conclusion**
 
 The "Controller" contract is integral to the fund's ability to manage its synthetic assets effectively. It supports a dynamic and responsive investment environment, ensuring that the fund remains competitive and adaptable to market changes. This contract fosters a controlled and secure ecosystem for asset management on the blockchain.

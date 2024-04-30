@@ -11,7 +11,11 @@ description: >-
 
 ### High-Level Fund Operation Overview
 
+<div data-full-width="true">
+
 <figure><img src="../.gitbook/assets/process-ezgif.com-video-to-gif-converter.gif" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### **1. Investment Initiation**
 

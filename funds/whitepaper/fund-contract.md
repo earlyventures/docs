@@ -11,12 +11,6 @@ description: >-
 
 The "Fund" contract is a central component of our DeFi platform designed to manage a portfolio of digital assets. Utilizing the Solidity programming language and deployed on the Ethereum blockchain, this contract handles the core functionalities such as asset allocation, fees management, and interactions with tokens representing fund shares.
 
-## **Features**
-
-* **Upgradability:** Uses UUPS (Universal Upgradeable Proxy Standard) for future-proofing and improvements without migrating assets or disrupting the existing ecosystem.
-* **Security:** Implements `ReentrancyGuard` to prevent reentrant calls, enhancing transaction security.
-* **Ownership Management:** Built with `Ownable` pattern allowing certain actions to be restricted to the contract owner.
-
 ## How it works
 
 ### **Investor**&#x20;
@@ -102,7 +96,9 @@ The contract includes multiple layers of security:
 * **Non-reentrancy:** To prevent re-entrancy attacks, critical functions such as `deposit` and `withdraw` are marked with the `nonReentrant` modifier.
 * **Ownership Checks:** Sensitive functions are restricted to the owner, preventing unauthorized access and changes to the fund's configuration.
 
-\---
+***
+
+
 
 ## **Conclusion**
 

@@ -35,6 +35,10 @@ The token extends `ERC20Votes`, which integrates governance capabilities, allowi
 * **Ownership Controls:** Only the contract owner can mint or burn tokens, ensuring that token supply adjustments are governed by strict controls.
 * **Interface Compliance:** Supports ERC-165 to declare the interfaces it implements, including `IVotes`, enabling interaction with governance protocols.
 
+***
+
+
+
 ## **Conclusion**
 
 The "Fund Token" contract is an integral part of our investment platform, providing a liquid, tradable representation of fund shares that not only reflects the value of the underlying assets but also empowers investors through governance rights. This setup aligns with our commitment to transparency and investor control in the fund management process.
