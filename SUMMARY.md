@@ -27,7 +27,7 @@
   * [CEX Fund](funds/methodology/cex.md)
 * [Fee](funds/fee.md)
 * [Smart contract](funds/smart-contract.md)
-* [Whitepaper](funds/whitepaper/README.md)
+* [Whitepaper](funds/whitepaper.md)
   * [Fund Contract](funds/whitepaper/fund-contract.md)
   * [Fund Token](funds/whitepaper/fund-token.md)
   * [Controller Contract](funds/whitepaper/controller-contract.md)
