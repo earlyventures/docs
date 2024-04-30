@@ -19,7 +19,13 @@ description: >-
 
 ### **1. Investment Initiation**
 
-Users invest USDT on the Polygon blockchain. Polygon is chosen not due to exclusive preference, but because it offers an optimal balance between gas costs, transaction capacity, and widespread acceptance by centralized exchanges (CEXs). Investments are made directly by transferring USDT from the user's wallet to the smart contract, ensuring that Earlyventures does not control the funds at any point in this process.
+Users invest USDT on the Polygon blockchain.&#x20;
+
+{% hint style="info" %}
+Polygon is chosen not due to exclusive preference, but because it currently offers the best balance between gas costs, transaction capacity, and widespread acceptance by centralized exchanges (CEXs).&#x20;
+{% endhint %}
+
+Investments are made directly by transferring USDT from the user's wallet to the smart contract, ensuring that Earlyventures does not control the funds at any point in this process.
 
 ### **2. Capital Deployment**
 
@@ -56,7 +62,7 @@ Together, these contracts form a comprehensive system designed to offer a transp
 
 
 
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">Fund Contract</td><td><a href="whitepaper/fund-contract.md">fund-contract.md</a></td><td><a href="../.gitbook/assets/contract_fund (1).png">contract_fund (1).png</a></td></tr><tr><td align="center">Fund Token Contract</td><td><a href="whitepaper/fund-token.md">fund-token.md</a></td><td><a href="../.gitbook/assets/contract_fundtoken (1).png">contract_fundtoken (1).png</a></td></tr><tr><td align="center">Controler Contract</td><td><a href="whitepaper/controller-contract.md">controller-contract.md</a></td><td><a href="../.gitbook/assets/contract_controler (1).png">contract_controler (1).png</a></td></tr><tr><td align="center">Synthetic Token Contract</td><td><a href="whitepaper/synthetic-token-contract.md">synthetic-token-contract.md</a></td><td><a href="../.gitbook/assets/contract_synthetic (1).png">contract_synthetic (1).png</a></td></tr><tr><td align="center"></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">Fund Contract</td><td><a href="whitepaper/fund-contract/">fund-contract</a></td><td><a href="../.gitbook/assets/contract_fund (1).png">contract_fund (1).png</a></td></tr><tr><td align="center">Fund Token Contract</td><td><a href="whitepaper/fund-token.md">fund-token.md</a></td><td><a href="../.gitbook/assets/contract_fundtoken (1).png">contract_fundtoken (1).png</a></td></tr><tr><td align="center">Controler Contract</td><td><a href="whitepaper/controller/">controller</a></td><td><a href="../.gitbook/assets/contract_controler (1).png">contract_controler (1).png</a></td></tr><tr><td align="center">Synthetic Token Contract</td><td><a href="synthetic-token-contract.md">synthetic-token-contract.md</a></td><td><a href="../.gitbook/assets/contract_synthetic (1).png">contract_synthetic (1).png</a></td></tr><tr><td align="center"></td><td></td><td></td></tr></tbody></table>
 
 
 

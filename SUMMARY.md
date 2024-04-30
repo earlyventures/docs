@@ -26,11 +26,12 @@
   * [DEX Fund](funds/methodology/dex.md)
   * [CEX Fund](funds/methodology/cex.md)
 * [Whitepaper](funds/whitepaper.md)
-  * [Fund Contract](funds/whitepaper/fund-contract.md)
+  * [Fund Contract](funds/whitepaper/fund-contract/README.md)
+    * [Smart contract List](funds/whitepaper/fund-contract/smart-contract-list.md)
   * [Fund Token](funds/whitepaper/fund-token.md)
-  * [Controller Contract](funds/whitepaper/controller-contract.md)
-  * [Synthetic Token Contract](funds/whitepaper/synthetic-token-contract.md)
-  * [Smart contract List](funds/whitepaper/smart-contract-list.md)
+  * [Controller](funds/whitepaper/controller/README.md)
+    * [Synthetic Controller Contract](funds/whitepaper/controller/synthetic-controller-contract.md)
+* [Synthetic Token Contract](funds/synthetic-token-contract.md)
 * [Fee](funds/fee.md)
 
 ## Exchange <a href="#etf" id="etf"></a>
