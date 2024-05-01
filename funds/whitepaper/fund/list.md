@@ -1,4 +1,4 @@
-# Fund Smart contract List
+# Smart Contract List
 
 ## V2
 
