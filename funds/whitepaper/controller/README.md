@@ -1,65 +1,37 @@
 ---
 description: >-
-  Details the management of liquidity and synthetic assets within the fund,
-  ensuring dynamic pricing and secure transactions.
+  The controller system is essential for managing capital deployment of the Fund
+  and ensuring efficient asset operations.
 ---
 
-# Controller Contract
+# Controller
 
+## **High-Level Functionality**
 
+The controller system is tasked with managing two primary functions:
 
-## **Introduction**
+1. **Asset Management**: Depending on the token's characteristics and availability on the Polygon network, the appropriate controller is selected to manage its interactions, including swaps, liquidity provision, and price tracking.
+2. **Asset Optimization**: Each controller optimizes the assets under its management, ensuring that the fund's operations are efficient and align with the current market conditions.
 
-The "Controller" contract plays a pivotal role in our DeFi platform by managing the liquidity and asset control within the fund. It interfaces with synthetic assets and orchestrates their dynamics to maintain fund stability and responsiveness to market conditions.
+## **Controllers Description**
 
-## **Features**
+### **Synthetic Controller**:
 
-* **Role-Based Access Control:** Implements `AccessControlEnumerableUpgradeable` to manage permissions across different operational roles such as fund managers and APIs.
-* **Upgradable:** Built with `UUPSUpgradeable` to ensure that the contract can evolve with minimal disruption.
-* **Asset Management:** Manages synthetic tokens, controlling their issuance, pricing, and exchange.
+* **Purpose**: Manages synthetic tokens which are representations of non-native assets on Polygon or assets without sufficient liquidity pools.
+* **Functionality**: Facilitates the creation, pricing, and exchange of synthetic tokens, ensuring that they accurately mirror the value of the underlying assets they represent.
 
-## **Key Components and Functions**
+### **Uniswap Controller**:
 
-### **Functions**
+* **Purpose**: Handles asset interactions for tokens that have existing liquidity pools on the Polygon network, such as WETH or WBTC.
+* **Functionality**: Leverages the Uniswap v3 protocol to manage token swaps, liquidity provisioning, and real-time pricing, ensuring efficient market operations.
 
-| Function Name       | Parameters                            | Description                                                           |
-| ------------------- | ------------------------------------- | --------------------------------------------------------------------- |
-| `addSyntheticToken` | `base, token`                         | Registers a new synthetic asset within the fund.                      |
-| `setFee`            | `_fee`                                | Adjusts the transaction fee for buying and selling synthetic tokens.  |
-| `buy`               | `base, symbol, baseAmount, receiver`  | Facilitates the purchase of synthetic tokens using the base currency. |
-| `sell`              | `base, symbol, tokenAmount, receiver` | Allows the sale of synthetic tokens back to the base currency.        |
-| `setTokenPrice`     | `base, symbol, price`                 | Sets or updates the market price of a synthetic token.                |
+## **Operational Strategy**
 
-### **Events**
+The fund dynamically selects between controllers based on the specific requirements of each asset. This strategy allows the fund to maintain high liquidity, ensure accurate asset valuation, and optimize transaction costs and speeds.
 
-| Event Name            | Parameters            | Description                                                    |
-| --------------------- | --------------------- | -------------------------------------------------------------- |
-| `FeeUpdated`          | `newFee`              | Emitted when the transaction fee is updated.                   |
-| `SyntheticTokenAdded` | `base, symbol, token` | Announced when a new synthetic token is added to the platform. |
-
-## **Use Cases**
-
-### **Liquidity Provision:**
-
-* The controller contract is essential for providing liquidity to the fund by enabling the seamless exchange of synthetic assets.
-
-### **Dynamic Pricing:**
-
-* It adjusts synthetic asset prices in real-time, ensuring that the fund's valuation reflects current market conditions.
-
-## **Fee Management:**
-
-* Oversees the implementation of fees for transactions within the fund, which are crucial for operational sustainability.
-
-## **Security Measures**
-
-* **Access Restrictions:** Utilizes role-based permissions to restrict sensitive functions to authorized operators only, preventing unauthorized access and ensuring integrity.
-* **Safe Transfers:** Leverages `SafeERC20` for secure token transfers, mitigating risks associated with token transactions.
-
-***
-
-
+* **Asset Availability and Liquidity Needs**: Assets with existing liquidity on Uniswap are managed by DEX controller like the Uniswap Controller, while those without are handled by the Synthetic Controller, which constructs a synthetic representation for trading and valuation purposes.
+* **Market Responsiveness**: Controllers are equipped to adjust their operations in response to market changes, ensuring that the fund's portfolio remains robust and its operations remain scalable.
 
 ## **Conclusion**
 
-The "Controller" contract is integral to the fund's ability to manage its synthetic assets effectively. It supports a dynamic and responsive investment environment, ensuring that the fund remains competitive and adaptable to market changes. This contract fosters a controlled and secure ecosystem for asset management on the blockchain.
+Our controller system is a cornerstone of the fund's architecture, enabling flexible and efficient management of diverse assets on the Polygon network. By distinguishing between synthetic and existing assets, the system not only enhances fund performance but also broadens the scope of accessible investment opportunities, making it a vital component.
