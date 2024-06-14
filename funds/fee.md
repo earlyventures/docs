@@ -12,7 +12,7 @@ Our commitment to aligning our success with yours is reflected in our fee struct
 
 ## Management Fee
 
-The management fee is a fixed charge of 2% per year on the assets we manage on your behalf. This fee is in line with industry standards and covers the operational costs of managing your investments, including but not limited to, research, trading, compliance, and customer service.
+The management fee is a fixed charge of 0.5% to 2% per year on the assets we manage on your behalf. This fee is in line with industry standards and covers the operational costs of managing your investments, including but not limited to, research, trading, compliance, and customer service.
 
 
 
