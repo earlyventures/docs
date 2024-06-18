@@ -7,7 +7,7 @@ description: >-
 
 # Tokenomics
 
-## $FUND Token
+## $DETF Token
 
 <table data-column-title-hidden data-view="cards"><thead><tr><th>TOKEN NAME</th><th data-hidden>$FUND</th></tr></thead><tbody><tr><td>Token name: DETF</td><td></td></tr><tr><td>Ticker: $DETF</td><td></td></tr><tr><td>Chain: Polygon </td><td>POLYGON</td></tr><tr><td>Max Supply : 100,000,000</td><td>100,000,000</td></tr><tr><td>ICO Date : TBA / Q1 2025</td><td>2025</td></tr></tbody></table>
 
