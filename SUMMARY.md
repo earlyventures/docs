@@ -41,6 +41,10 @@
     * [Proof of reserve](funds/whitepaper/synthetic-token/proof-of-reserve.md)
 * [Fee](funds/fee.md)
 
+***
+
+* [DETF](detf.md)
+
 ## Exchange <a href="#etf" id="etf"></a>
 
 * [ETF Secondary Market](etf/etf-secondary-market.md)
