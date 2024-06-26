@@ -12,6 +12,12 @@ EarlyVentures is proud to introduce the Custom Decentralized Exchange Traded Fun
 
 
 
+<div align="left" data-full-width="false">
+
+<figure><img src="../.gitbook/assets/CleanShot 2024-06-26 at 14.42.43@2x (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
 The Custom DETF empowers users to design their own ETFs with up to 100 different tokens, providing a seamless and efficient way to manage and share investment strategies. This feature is ideal for crypto enthusiasts, influencers, community leaders, and investors looking to diversify their portfolios with a decentralized and transparent solution.
 
 ## Benefits

@@ -41,22 +41,24 @@
     * [Proof of reserve](funds/whitepaper/synthetic-token/proof-of-reserve.md)
 * [Fee](funds/fee.md)
 
-***
+## detf
 
-* [Create your ETF](create-your-etf.md)
-
-## Exchange <a href="#etf" id="etf"></a>
-
-* [ETF Secondary Market](etf/etf-secondary-market.md)
-* [Uniswap](etf/uniswap.md)
+* [Create your ETF](detf/create-your-etf.md)
 
 ## Token
 
 * [Airdrop](token/airdrop.md)
 * [Tokenomics](token/tokenomics.md)
 
+## Exchange <a href="#etf" id="etf"></a>
+
+* [Secondary Market](etf/secondary-market.md)
+* [Uniswap](etf/uniswap.md)
+
 ## about
 
 * [App](https://earlyventures.com)
 * [Twitter](https://twitter.com/earlyventure)
 * [Blog](https://blog.earlyventures.com)
+* [Telegram](https://t.me/earlyventures/1883)
+* [Reddit DETF HUB](https://www.reddit.com/r/ETFHUB/)
