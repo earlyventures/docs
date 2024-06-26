@@ -43,7 +43,7 @@
 
 ***
 
-* [DETF](detf.md)
+* [Create your ETF](create-your-etf.md)
 
 ## Exchange <a href="#etf" id="etf"></a>
 
