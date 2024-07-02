@@ -43,7 +43,7 @@
 
 ## detf
 
-* [Create your ETF](detf/create.md)
+* [Create your ETF](detf/tutorial.md)
 * [FAQ](detf/faq.md)
 * [Whitepaper](detf/whitepaper.md)
 
