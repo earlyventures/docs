@@ -2,7 +2,7 @@
 description: Create your own ETF and earn as a fund manager
 ---
 
-# Create your ETF
+# Whitepaper
 
 ## **Custom Decentralized Exchange Traded Fund (DETF)**
 

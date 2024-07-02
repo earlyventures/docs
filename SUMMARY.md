@@ -43,7 +43,9 @@
 
 ## detf
 
-* [Create your ETF](detf/create-your-etf.md)
+* [Create your ETF](detf/create.md)
+* [FAQ](detf/faq.md)
+* [Whitepaper](detf/whitepaper.md)
 
 ## Token
 
