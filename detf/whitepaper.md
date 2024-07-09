@@ -23,7 +23,7 @@ The Custom DETF empowers users to design their own ETFs with up to 100 different
 ## Benefits
 
 1. **Instant Deposits and Withdrawals & Real-Time Price Updates:**
-   * Enjoy the convenience of immediate transactions and get price updates every 5 minutes instead of once a day, ensuring liquidity, flexibility, and up-to-date information for better decision-making.
+   * Enjoy the convenience of immediate transactions and get price updates every 5 minutes ensuring liquidity, flexibility, and up-to-date information for better decision-making.
 2. **24/7 Tradability:**
    * Trade your fund any time, day or night, providing continuous access to the market.
 3. **Monetization:**
